@@ -1,0 +1,17 @@
+{
+  "name": "mars-rover",
+  "version": "1.0.0",
+  "description": "areum-mars-rover",
+  "main": "marsRover.js",
+  "bin": {
+    "app": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
